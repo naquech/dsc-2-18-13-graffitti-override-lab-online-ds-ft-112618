@@ -8,8 +8,8 @@
 
 #wall #tag-2 {
     background:none;
-    z-index: 6;
-    display: block;
+    z-index: 0;
+    display: none;
 }
 
 #wall #tag-3.slick.wicked{
