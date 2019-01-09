@@ -3,9 +3,13 @@
 }
 
 #wall div #tag-2{
-  background: none;
+  display: none;
 }
 
 #wall div #tag-3{
+  display: none;
+}
+
+#wall #tag-4{
   display: none;
 }
