@@ -6,6 +6,7 @@
   background: none;
   display: none;
 }
+
 #wall #tag-3.slick.wicked{
   display: none;
 }
@@ -14,7 +15,7 @@
   display: none;
 }
 
-#wall .parent #tag-5.slick{
+#wall .parent #tag-5{
   display: none;
 }
 
