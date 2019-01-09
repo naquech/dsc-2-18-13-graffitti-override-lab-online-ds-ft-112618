@@ -2,10 +2,10 @@
   display: none;
 }
 
-#tag-2{
+#wall #tag-2 {
   background: none;
+  display: none;
 }
-
 #wall #tag-3.slick.wicked{
   display: none;
 }
