@@ -4,7 +4,7 @@
 
 #wall div #tag-2{
   background: none;
-  display: none;
+  display: flex;
 }
 
 #wall #tag-3.slick.wicked{
